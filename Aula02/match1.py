@@ -1,9 +1,9 @@
-print("Este Programa analisa os valores digitado de 0 a 6")
+print("Este Programa analisa os valores")
 digito = input("Entre com o número de 0 a 6")
 
 
 match digito:
-    case '0':
+    case '0' | '10':
         print("Domingo")
     case '1':
         print("Segunda-feira")
