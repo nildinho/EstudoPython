@@ -1,4 +1,4 @@
-import os.system
+import os
 def boasvindas():
     print("Olá. Seja bem vindo!")
 
